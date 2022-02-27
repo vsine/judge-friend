@@ -134,7 +134,7 @@
                     <td>方璋文</td>
                     <td>男</td>
                     <td>学生</td>
-                    <td>专科</td>
+                    <td>大专</td>
                     <td>虚伪待人，功利</td>
                     <td><span class="badge badge-warning btn-sm">中</span></td>
                     <td><button type="button" class="btn btn-info btn-sm">事件档案</button></td>
